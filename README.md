@@ -10,6 +10,8 @@ Welcome to my Data Cleaning and Exploratory Data Analysis (EDA) Projects reposit
 - Scikit-learn
 - OpenDatasets
 
+The Kaggle links for the majority of the datasets are included alongside the respective projects.
+
 Feel free to explore each project to gain insights into my data cleaning and EDA methodologies.
 
 ## How to Use
