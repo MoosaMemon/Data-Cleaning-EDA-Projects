@@ -18,7 +18,7 @@ If you're interested in replicating or extending any of these projects, follow t
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/data-cleaning-eda-projects.git
+   git clone https://github.com/MoosaMemon/Data-Cleaning-EDA-Projects.git
    ```
 
 2. **Explore Projects:**
